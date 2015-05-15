@@ -28,9 +28,9 @@ Estamos utilizando a plataforma [Meetup.com/DevMatoGrosso](http://www.meetup.com
   
 ##Quer falar sobre algum assunto ? 
 
-  Caso você tenha algo para falar/apresentar para a comunidade, por favor entre em contato com a gente. Gostariamos muito da sua participação.
+  Por favor [crie uma issue](https://github.com/devmatogrosso/submit/issues/new)
 
 ##Comes e Bebes.
    
    Esta é uma parte importante, no nosso primeiro meetup fomos patrocinados pelo High5Devs.com, porém não é sempre que temos o patrocinio.
-   Mas sempre que for possivel vamos avisar a todos. Mas caso alguem tenha interesse em levar alguma bebida ou comida, lembre-se! Além de ser seu, ela será compartilhada para os demais. 
+   Mas sempre que for possivel vamos avisar a todos. Mas caso alguem tenha interesse em levar alguma bebida ou comida, lembre-se! Além de ser seu, ela será compartilhada para os demais, com bom senso. 
