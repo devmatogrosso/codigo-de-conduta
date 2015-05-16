@@ -1,4 +1,4 @@
-<img src="https://avatars3.githubusercontent.com/u/12420406?v=3&s=200" width="200">
+<img src="https://raw.githubusercontent.com/devmatogrosso/media/master/devmt-logo-github.png" height="200">
 
 Meetup DevMT 
 ============
