@@ -28,7 +28,7 @@ Estamos utilizando a plataforma [Meetup.com/DevMatoGrosso](http://www.meetup.com
   
 ##Quer falar sobre algum assunto ? 
 
-  Por favor [crie uma issue](https://github.com/devmatogrosso/submit/issues/new)
+  Por favor [submeta](https://github.com/devmatogrosso/submit) para nosso repositório.
 
 ##Comes e Bebes.
    
