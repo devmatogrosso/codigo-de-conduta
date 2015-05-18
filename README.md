@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/devmatogrosso/media/master/devmt-logo-github.png" height="200">
 
-Meetup DevMT 
+Meetup DevMT  - Desenvolvedores de Mato Grosso
 ============
 
 Estamos utilizando a plataforma [Meetup.com/DevMatoGrosso](http://www.meetup.com/devmatogrosso) para a organização de cada edição e controle dos participantes. Na plataforma é definido;
@@ -17,7 +17,7 @@ Estamos utilizando a plataforma [Meetup.com/DevMatoGrosso](http://www.meetup.com
 
   Todos que estão cadastrados na plataforma [Meetup.com/DevMatoGrosso](http://www.meetup.com/devmatogrosso) podem participar e solicitar a inscrição para cada evento futuro, lembrando
   que a quantidade de participantes é limitado a 25 pessoas, fazendo com que o ambiente fique mais agradável.
-  
+   
   Caso um participante desista de comparecer ao evento e solicitar o cancelamento da sua inscrição, uma nova vaga será aberta, assim dando oportunidade para outra pessoa.
   
 ##Observação
