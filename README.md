@@ -23,7 +23,7 @@ Estamos utilizando a plataforma [Meetup.com](http://www.meetup.com/devmatogrosso
 
 # Quer falar sobre algum assunto?
 
-Por favor [submeta](https://github.com/devmatogrosso/submit)para o nosso repositório
+Por favor [submeta](https://github.com/devmatogrosso/submit) para o nosso repositório
 
 # Comes e Bebes
 
