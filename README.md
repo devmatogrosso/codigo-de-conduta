@@ -10,7 +10,7 @@ Espera-se que todos os membros da comunidade sejam tratados com gentiliza.
 
 Aos que forem assediados de qualquer forma, e aos que presenciem o assédio a qualquer membro da comunidade, espera-se que tentem interromper a agressão e que se reportem aos responsáveis pelo o meio no qual a agressão ocorreu. 
 
-[Slack](http://slack.devmt.com.br)
-[Meetup](http://www.meetup.com/devmatogrosso)
-[Facebook](https://www.facebook.com/devmatogrosso/?fref=ts)
+* [Slack](http://slack.devmt.com.br)
+* [Meetup](http://www.meetup.com/devmatogrosso)
+* [Facebook](https://www.facebook.com/devmatogrosso/?fref=ts)
 
