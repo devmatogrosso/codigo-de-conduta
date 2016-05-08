@@ -1,36 +1,33 @@
+# Código de Conduta
+
 <img src="https://raw.githubusercontent.com/devmatogrosso/media/master/devmt-logo-github.png" height="200">
 
-Meetup DevMT  - Desenvolvedores de Mato Grosso
-============
+Este documento é direcionado à toda comunidade de Desenvolvedores do Estado do Mato Grosso. Por meio deste, o DEVMT, apresentará expectativas e diretrizes a serem seguidas pela a comunidade em todos os meios de comunicação, divulgação, seja estes online ou offline. 
 
-Estamos utilizando a plataforma [Meetup.com/DevMatoGrosso](http://www.meetup.com/devmatogrosso) para a organização de cada edição e controle dos participantes. Na plataforma é definido;
+O objetivo deste documento é assegurar a todos envolvidos na comunidade de dados e perigos morais, também dedica-se a promover uma comunidade respeitosa e livre de assédio para todos.
 
-1. Tema do meetup
-1. Local
-1. Quantidade de participantes.
+Em todos os meios citados não deve ser tolerado qualquer forma de assédio ou intimidação, estes incluindo comentários ofensivos, verbais ou eletrônicos, relacionados a características ou escolhas pessoas, bem também como imagens sexuais em espaços públicos ou digitais, intimidação deliberada, bullying, perseguição, fotografias ou gravações que gerem embaraço, contato físico inadequado ou atenção sexual indesejada. Também não extremamente conedanadas piadas e brincadeiras de assédio, de cunho sexista, racista, ou que ofendam ou excluam qualquer indivíduo ou grupo de indivíduos.
 
-##Funcionamento
-  
-  Vamos liberar três eventos por vez, funcionando da seguinte forma:
-  
-   > Meetup > Coding Dojo > Meetup 
+Espera-se que todos os membros da comunidade sejam tratados com gentiliza. 
 
-  Todos que estão cadastrados na plataforma [Meetup.com/DevMatoGrosso](http://www.meetup.com/devmatogrosso) podem participar e solicitar a inscrição para cada evento futuro, lembrando
-  que a quantidade de participantes é limitado a 25 pessoas, fazendo com que o ambiente fique mais agradável.
-   
-  Caso um participante desista de comparecer ao evento e solicitar o cancelamento da sua inscrição, uma nova vaga será aberta, assim dando oportunidade para outra pessoa.
-  
-##Observação
+Aos que forem assediados de qualquer forma, e aos que presenciem o assédio a qualquer membro da comunidade, espera-se que tentem interromper a agressão e que se reportem aos responsáveis pelo o meio no qual a agressão ocorreu. 
 
-  Gostariamos que em cada evento o ambiente seja de troca de informações, assim como cada um que vai apresentar o tema em questão gosta de falar, certamente ele também gosta de escutar
-  a experiência e conhecimento de todos participantes, assim como todos os demais. Não fique acanhado, compartilhe conhecimento com a comunidade. 
-  Não temos bandeira de tecnologia, queremos proporcionar um ambiente para todas as áreas.
-  
-##Quer falar sobre algum assunto ? 
+* [DevMT](http://www.devmt.com.br)
+* [Slack](http://slack.devmt.com.br)
+* [Meetup](http://www.meetup.com/devmatogrosso)
+* [Facebook](https://www.facebook.com/devmatogrosso/?fref=ts)
 
-  Por favor [submeta](https://github.com/devmatogrosso/submit) para nosso repositório.
+# Meetup - DevMT
 
-##Comes e Bebes.
-   
-   Esta é uma parte importante, no nosso primeiro meetup fomos patrocinados pelo High5Devs.com, porém não é sempre que temos o patrocinio.
-   Mas sempre que for possivel vamos avisar a todos. Mas caso alguem tenha interesse em levar alguma bebida ou comida, lembre-se! Além de ser seu, ela será compartilhada para os demais, com bom senso. 
+Estamos utilizando a plataforma [Meetup.com](http://www.meetup.com/devmatogrosso) para a organização para os eventos realizados e controle dos participantes. 
+
+# Quer falar sobre algum assunto?
+
+Por favor [submeta](https://github.com/devmatogrosso/submit) para o nosso repositório
+
+# Comes e Bebes
+
+Esta é uma parte importante a se esclarecer, em alguns Meetups vamos disponibilizar comes e bebes, porém infelizmente não é sempre que teremos, e caso você tenha interesse em levar algo, lembre-se! além de ser seu, o mesmo será compartilhado para os demais, com bom senso.
+
+
+
